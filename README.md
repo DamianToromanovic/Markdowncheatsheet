@@ -21,4 +21,5 @@
 |Syntaxt für beliebge Codesprache aktivieren|´´´ python|
 |Deaktivieren der Codesprache|´´´|
 |Erstellen von To-Do-Listen|- [x], [ ]|
-
+Zitate|> "blabla."
+Text zentieren und Farbe wählen|<p style="color: red; te xt-align:center´´>Dies ist ein zentrierter roter text< /p >
