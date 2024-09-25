@@ -9,4 +9,4 @@
 |Fett gedruckt|** **|
 |Kursiv|_ _|
 |Durchgestrichen|~~ ~~|
-|Fett und kursiv| **_ _**|
+|Fett und kursiv| ** _ _ **|
