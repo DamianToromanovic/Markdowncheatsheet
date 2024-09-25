@@ -3,6 +3,5 @@
 
 ** Cheat Sheets für Markdown **
 
-| Befehl | Syntaxt |
-|........|.........|
-Überschrift erstellen | # |
+|Befehl|Syntaxt|
+|Überschrift|#|
