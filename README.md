@@ -5,4 +5,5 @@
 
 |Befehl|Syntaxt|
 |------|-------|
-|Überschrift|#|
+|Überschrift |#, ##, ###, ### usw.|
+|Fett gedruckt | **...**
