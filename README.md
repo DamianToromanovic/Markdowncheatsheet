@@ -20,5 +20,5 @@
 |Unterunterunterpunkt|Tab Tab-|
 |Syntaxt für beliebge Codesprache aktivieren|´´´ python|
 |Deaktivieren der Codesprache|´´´|
-|Erstellen von To-Do-Listen|-[ x ]= -[x] [ ]=[]|
+|Erstellen von To-Do-Listen|- [x], [ ]|
 
