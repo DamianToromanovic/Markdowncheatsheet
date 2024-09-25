@@ -16,8 +16,10 @@
 |Bild einfügen und Größe wählen|<img src="./bildausordner.jpeg" width=500|
 |Unsichtbaren Kommentar erstellen| < !-- Text -- >|
 |Unterpunkte erstellen| - |
-|Unterunterpunkt| Tab-|
-|Unterunterunterpunkt| Tab Tab-|
+|Unterunterpunkt|Tab-|
+|Unterunterunterpunkt|Tab Tab-|
+|Syntaxt für beliebge Codesprache aktivieren|´´´ python|
+|Deaktivieren der Codesprache|´´´|
 
 
  
