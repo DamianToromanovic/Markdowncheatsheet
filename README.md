@@ -6,10 +6,10 @@
 |Befehl|Syntaxt|
 |------|-------|
 |Überschrift|#, ##, ###, ### usw.|
-|Fett gedruckt|** Text **|
-|Kursiv|_ Text _ oder * Text *|
-|Durchgestrichen|~~ Text ~~|
-|Fett und kursiv|** _ Text _ ** oder *** Text ***|
+|Fett gedruckt|\**Text**|
+|Kursiv|\_Text_ oder \*Text*|
+|Durchgestrichen|\~~Text~~|
+|Fett und kursiv|\**_Text_** oder *** Text ***|
 [Link|[ Name ] ( link )|
 |Bild einfügen|[ Name ] ( link )| 
 |Bild einfügen|[ Name ] ( dateiausordner.jpeg )|
