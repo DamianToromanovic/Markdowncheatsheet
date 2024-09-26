@@ -7,9 +7,9 @@
 |------|-------|
 |Überschrift|#, ##, ###, ### usw.|
 |Fett gedruckt|** Text **|
-|Kursiv|_ Text _|
+|Kursiv|_ Text _ oder * Text *|
 |Durchgestrichen|~~ Text ~~|
-|Fett und kursiv|** _ Text _ **|
+|Fett und kursiv|** _ Text _ ** oder *** Text ***|
 [Link|[ Name ] ( link )|
 |Bild einfügen|[ Name ] ( link )| 
 |Bild einfügen|[ Name ] ( dateiausordner.jpeg )|
